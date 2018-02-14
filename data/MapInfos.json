@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"A 女儿的房间","order":2,"parentId":0,"scrollX":520.5,"scrollY":460.5},
+{"id":2,"expanded":false,"name":"A 客厅+厨房","order":3,"parentId":0,"scrollX":559.5,"scrollY":452.5},
+{"id":3,"expanded":true,"name":"B 父母的房间（母亲）","order":9,"parentId":0,"scrollX":529,"scrollY":460.5},
+{"id":4,"expanded":false,"name":"A 洗手间","order":5,"parentId":0,"scrollX":520.5,"scrollY":460.5},
+{"id":5,"expanded":false,"name":"A 父母的房间","order":4,"parentId":0,"scrollX":520.5,"scrollY":460.5},
+{"id":6,"expanded":false,"name":"B 客厅（母亲）","order":6,"parentId":0,"scrollX":520.5,"scrollY":460.5},
+{"id":7,"expanded":true,"name":"B 父母的房间夜色（母亲）","order":8,"parentId":0,"scrollX":520.5,"scrollY":460.5},
+{"id":8,"expanded":false,"name":"B 孩子房（母亲）","order":7,"parentId":0,"scrollX":520.5,"scrollY":460.5},
+{"id":9,"expanded":false,"name":"黑屏","order":1,"parentId":0,"scrollX":512.5,"scrollY":495.5}
+]
